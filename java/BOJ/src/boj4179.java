@@ -1,3 +1,4 @@
+/*
 import java.io.BufferedReader;
 
 public class boj4179 {
@@ -5,3 +6,4 @@ public class boj4179 {
         BufferedReader br = new BufferedReader(System.in);
     }
 }
+*/
