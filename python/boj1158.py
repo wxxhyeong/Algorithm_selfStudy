@@ -1,5 +1,9 @@
 '''
 백준 1158. 요세푸스 문제
+
+update
+1월 17일 join 사용
+deque의 rotate(k)를 이용하여서도 풀이 가능
 '''
 n, k = map(int, input().split())
 people = [i+1 for i in range(n)]
@@ -10,10 +14,5 @@ for i in range(n-1):
     idx = (idx + k -1) % len(people)
 ans.append(people.pop())
 
-print("<", end="")
-for i in range(len(ans)):
-    if i != len(ans)-1:
-        print(ans[i], end =", ")
-        continue
-    print("{}>".format(ans[i]))
+print('<'+', '.join(map(str, ans))+">")
 
