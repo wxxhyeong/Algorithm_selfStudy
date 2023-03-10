@@ -9,7 +9,7 @@
 | 4. 소수의 연속합      | 골드3 | https://www.acmicpc.net/problem/1644 | [풀이](https://velog.io/@wxxhyeong/%EB%B0%B1%EC%A4%80-1644.-%EC%86%8C%EC%88%98%EC%9D%98-%EC%97%B0%EC%86%8D%ED%95%A9)          |
 | 5. 소인수분해        | 브론즈1 | https://www.acmicpc.net/problem/11653 |
 | 6. 암호제작         | 브론즈3 | https://www.acmicpc.net/problem/1837 |
-| 7. 1            | 실버3 | https://www.acmicpc.net/problem/4375 |
+| 7. 1            | 실버3 | https://www.acmicpc.net/problem/4375 |https://velog.io/@wxxhyeong/%EB%B0%B1%EC%A4%80-4375.-1|
 | 8. 30           | 실버4 | https://www.acmicpc.net/problem/10610 |
 | 9. 보이는 점의 개수    | 실버2 | https://www.acmicpc.net/problem/2725 |
 | 10. 수학은 너무 쉬워   | 골드3 | https://www.acmicpc.net/problem/2904 |
